@@ -1,10 +1,4 @@
 export const feeds = [
-  // Daring Fireball
-  'https://daringfireball.net/feeds/main',
-
-  // JakeArchibald.com
-  'https://jakearchibald.com/posts.rss',
-
-  // Appjeniksaan
-  'https://appjeniksaan.nl/feed.xml',
+  'https://www.kra.org.au/feed/',
+  'https://bitterswede.com/feed/',
 ]
