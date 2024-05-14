@@ -5,5 +5,8 @@ export const feeds = [
   'https://stilgherrian.com/feed/',
   'https://www.australiangeographic.com.au/feed/',
   'https://www.productsafety.gov.au/rss/recalls.xml',
-  
+  'https://blogs.nasa.gov/sunspot/feed/',
+  'https://blogs.nasa.gov/artemis/feed/',
+  'https://blogs.nasa.gov/webb/feed/',
+  'https://hackaday.com/category/space/feed/',
 ]
