@@ -22,7 +22,7 @@ export const feeds = [
   'https://blogs.nasa.gov/artemis/feed/',
   'https://blogs.nasa.gov/webb/feed/',
   'https://hackaday.com/category/space/feed/',
-
+  'https://www.nasa.gov/feeds/iotd-feed/',
   
   // -----------------------------------------
   // Funn
