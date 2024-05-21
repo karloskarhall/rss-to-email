@@ -33,6 +33,7 @@ export const feeds = [
   // Misc
   // -----------------------------------------
   'https://postsecret.com/feed/',
+  'https://www.merriam-webster.com/wotd/feed/rss2',
 
   
 ]
