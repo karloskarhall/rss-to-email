@@ -22,11 +22,11 @@ export const feeds = [
   // -----------------------------------------
   // Spaceeeee
   // -----------------------------------------
-  'https://blogs.nasa.gov/sunspot/feed/',
-  'https://blogs.nasa.gov/artemis/feed/',
-  'https://blogs.nasa.gov/webb/feed/',
-  'https://hackaday.com/category/space/feed/',
-  'https://www.nasa.gov/feeds/iotd-feed/',
+  //'https://blogs.nasa.gov/sunspot/feed/',
+  //'https://blogs.nasa.gov/artemis/feed/',
+  //'https://blogs.nasa.gov/webb/feed/',
+  //'https://hackaday.com/category/space/feed/',
+  //'https://www.nasa.gov/feeds/iotd-feed/',
   
   // -----------------------------------------
   // Funn
