@@ -16,8 +16,7 @@ export const feeds = [
   // -----------------------------------------
   // Australia
   // -----------------------------------------
-  'https://www.australiangeographic.com.au/feed/',
-  'https://www.productsafety.gov.au/rss/recalls.xml',
+   'https://www.productsafety.gov.au/rss/recalls.xml',
 
 
   // -----------------------------------------
@@ -66,8 +65,8 @@ export const feeds = [
   // -----------------------------------------
   // Misc
   // -----------------------------------------
-  'https://postsecret.com/feed/',
-  'https://www.merriam-webster.com/wotd/feed/rss2',
+  'https://www.merriam-webster.com/wotd/feed/rss2', //Word of the Day
+  'https://www.dictionaryofobscuresorrows.com/rss', //Dictionary of Obscure Sorrows
 
   
 ]
