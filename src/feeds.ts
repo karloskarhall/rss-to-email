@@ -4,6 +4,11 @@ export const feeds = [
   // -----------------------------------------
   'https://meanjin.com.au/feed/',
 
+  // -----------------------------------------
+  // Tech
+  // -----------------------------------------
+
+  'https://disconnect.blog/rss/',
   
   // -----------------------------------------
   // Friends, Family, Commmunity
@@ -66,7 +71,7 @@ export const feeds = [
   // Misc
   // -----------------------------------------
   'https://www.merriam-webster.com/wotd/feed/rss2', //Word of the Day
-  'https://www.dictionaryofobscuresorrows.com/rss', //Dictionary of Obscure Sorrows
+  
 
   
 ]
