@@ -65,6 +65,7 @@ export const feeds = [
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCSFaYYQzNMLo2U6rSNLpghg', //Torbjörn Åhman
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCD2VuGlPSfBDFGKhxviv1Zg', //VEK (Russian Music)
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCjGiP1mw4T6Ra4VgIsEjsTw', //Woke Spokes
+  'https://www.youtube.com/feeds/videos.xml?channel_id=UCvK4bOhULCpmLabd2pDMtnA', //Yes Theory
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCZgsMhQWvCdudLK8Yn1aTfQ', //Yogev Gabay 
   
   // -----------------------------------------
