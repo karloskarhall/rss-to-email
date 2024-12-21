@@ -2,7 +2,7 @@ export const feeds = [
   // -----------------------------------------
   // Writing
   // -----------------------------------------
-  'https://meanjin.com.au/feed/',
+  
 
   // -----------------------------------------
   // Tech
@@ -17,6 +17,7 @@ export const feeds = [
   'https://www.stugr.com/feed.xml',
   'https://stilgherrian.com/feed/',
   'https://fernandogros.com/feed/',
+  'https://blog.decryption.net.au/posts.rss', //Decryption
   
   // -----------------------------------------
   // Australia
