@@ -7,7 +7,7 @@ export const feeds = [
   // -----------------------------------------
   // Tech
   // -----------------------------------------
-
+  'https://github.com/TryGhost/Ghost/releases.atom', //Ghost Updates
   'https://disconnect.blog/rss/',
   
   // -----------------------------------------
