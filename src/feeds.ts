@@ -18,6 +18,7 @@ export const feeds = [
   'https://stilgherrian.com/feed/',
   'https://fernandogros.com/feed/',
   'https://blog.decryption.net.au/posts.rss', //Decryption
+  'https://skyhulk.net/rss', // Kat Lucas-Healey
   
   // -----------------------------------------
   // Australia
