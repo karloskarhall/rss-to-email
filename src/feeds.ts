@@ -8,7 +8,7 @@ export const feeds = [
   // Tech
   // -----------------------------------------
   'https://github.com/TryGhost/Ghost/releases.atom', //Ghost Updates
-  'https://disconnect.blog/rss/',
+  
   
   // -----------------------------------------
   // Friends, Family, Commmunity
@@ -27,9 +27,9 @@ export const feeds = [
 
 
   // -----------------------------------------
-  // Spaceeeee
+  // Traffic and Streets
   // -----------------------------------------
-  //'https://blogs.nasa.gov/sunspot/feed/',
+  'https://www.youtube.com/feeds/videos.xml?channel_id=UC0intLFzLaudFG-xAvUEO-A', // Not Just Bikes
   //'https://blogs.nasa.gov/artemis/feed/',
   //'https://blogs.nasa.gov/webb/feed/',
   //'https://hackaday.com/category/space/feed/',
