@@ -2,7 +2,7 @@ export const feeds = [
   // -----------------------------------------
   // Writing
   // -----------------------------------------
-  
+  'https://notes2neutrons.blogspot.com/feeds/posts/default', // Rock, Reaction and Revolution
 
   // -----------------------------------------
   // Tech
