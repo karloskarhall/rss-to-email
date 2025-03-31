@@ -17,8 +17,12 @@ export const feeds = [
   'https://www.stugr.com/feed.xml',
   'https://stilgherrian.com/feed/',
   'https://fernandogros.com/feed/',
-  'https://blog.decryption.net.au/posts.rss', //Decryption
+  'https://blog.decryption.net.au/posts.rss', // Decryption
   'https://skyhulk.net/rss', // Kat Lucas-Healey
+  'https://benhr.xyz/feed.xml', // Ben Harris-Roxas
+  'https://orangejuiceandryvita.com/rss', // Liam Hogan
+  'https://www.drmskat.space/feed.xml', // Dr Ms Kat
+  'https://mikelynch.org/feeds/all.rss', // Mike Lynch
   
   // -----------------------------------------
   // Australia
