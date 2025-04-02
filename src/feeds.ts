@@ -3,6 +3,7 @@ export const feeds = [
   // Writing
   // -----------------------------------------
   'https://notes2neutrons.blogspot.com/feeds/posts/default', // Rock, Reaction and Revolution
+  'https://wildlyswim.com/rss', // Mine - hoping to be surprised by a post from Brendan
 
   // -----------------------------------------
   // Tech
