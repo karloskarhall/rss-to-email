@@ -24,6 +24,7 @@ export const feeds = [
   'https://orangejuiceandryvita.com/rss', // Liam Hogan
   'https://www.drmskat.space/feed.xml', // Dr Ms Kat
   'https://mikelynch.org/feeds/all.rss', // Mike Lynch
+  'https://realcool.co/rss', // Mike Stevens
   
   // -----------------------------------------
   // Australia
