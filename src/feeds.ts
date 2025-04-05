@@ -1,18 +1,6 @@
 export const feeds = [
   // -----------------------------------------
-  // Writing
-  // -----------------------------------------
-  'https://notes2neutrons.blogspot.com/feeds/posts/default', // Rock, Reaction and Revolution
-  'https://wildlyswim.com/rss', // Mine - hoping to be surprised by a post from Brendan
-
-  // -----------------------------------------
-  // Tech
-  // -----------------------------------------
-  'https://github.com/TryGhost/Ghost/releases.atom', //Ghost Updates
-  
-  
-  // -----------------------------------------
-  // Friends, Family, Commmunity
+  // Blogs
   // -----------------------------------------
   'https://www.kra.org.au/feed/',
   'https://www.stugr.com/feed.xml',
@@ -24,7 +12,14 @@ export const feeds = [
   'https://orangejuiceandryvita.com/rss', // Liam Hogan
   'https://www.drmskat.space/feed.xml', // Dr Ms Kat
   'https://mikelynch.org/feeds/all.rss', // Mike Lynch
+  'https://notes2neutrons.blogspot.com/feeds/posts/default', // Rock, Reaction and Revolution
   'https://realcool.co/rss', // Mike Stevens
+
+  // -----------------------------------------
+  // Tech
+  // -----------------------------------------
+  'https://github.com/TryGhost/Ghost/releases.atom', //Ghost Updates
+  'https://signal.org/blog/rss.xml', //Signal
   
   // -----------------------------------------
   // Australia
@@ -36,16 +31,7 @@ export const feeds = [
   // Traffic and Streets
   // -----------------------------------------
   'https://www.youtube.com/feeds/videos.xml?channel_id=UC0intLFzLaudFG-xAvUEO-A', // Not Just Bikes
-  //'https://blogs.nasa.gov/artemis/feed/',
-  //'https://blogs.nasa.gov/webb/feed/',
-  //'https://hackaday.com/category/space/feed/',
-  //'https://www.nasa.gov/feeds/iotd-feed/',
-  
-  // -----------------------------------------
-  // Funn
-  // -----------------------------------------
-  'https://xkcd.com/atom.xml',
-
+   
   // -----------------------------------------
   // YouTube
   // -----------------------------------------
