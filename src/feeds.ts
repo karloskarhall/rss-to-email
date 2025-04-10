@@ -15,6 +15,7 @@ export const feeds = [
   'https://notes2neutrons.blogspot.com/feeds/posts/default', // Rock, Reaction and Revolution
   'https://realcool.co/rss', // Mike Stevens
   'https://blog.virtualwolf.org/rss', // Virtual Wolf
+  'https://elvery.net/rss.xml', // Dr. ZAx
 
   // -----------------------------------------
   // Tech
