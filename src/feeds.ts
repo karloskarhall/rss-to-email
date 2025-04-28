@@ -16,6 +16,7 @@ export const feeds = [
   'https://realcool.co/rss', // Mike Stevens
   'https://blog.virtualwolf.org/rss', // Virtual Wolf
   'https://elvery.net/rss.xml', // Dr. ZAx
+  'https://sheepchase.net/rss', // Sheechase
 
   // -----------------------------------------
   // Tech
@@ -37,7 +38,7 @@ export const feeds = [
   // -----------------------------------------
   // YouTube
   // -----------------------------------------
-
+  'https://www.youtube.com/feeds/videos.xml?channel_id=UCdJg7iuum8LOB4tmjK1RHnw', // Bas Scheffers
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCe1Aj6VEO299Yq4WkXdoD3Q', //Alexandre Chappel
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCc9CjaAjsMMvaSghZB7-Kog', //Beard Meats Food
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCm325cMiw9B15xl22_gr6Dw', //Beau Miles
