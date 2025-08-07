@@ -16,7 +16,7 @@ export const feeds = [
   'https://realcool.co/rss', // Mike Stevens
   'https://blog.virtualwolf.org/rss', // Virtual Wolf
   'https://elvery.net/rss.xml', // Dr. ZAx
-  'https://pedalsandpages.com/feed/' // Pedals and Pages
+  'https://pedalsandpages.com/feed/', // Pedals and Pages
 
   // -----------------------------------------
   // Tech
