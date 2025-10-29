@@ -65,6 +65,7 @@ export const feeds = [
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCvK4bOhULCpmLabd2pDMtnA', //Yes Theory
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCZgsMhQWvCdudLK8Yn1aTfQ', //Yogev Gabay 
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCuEpivuqbmyvg2ega40REyQ', // Torsten Bunge
+  'https://www.youtube.com/feeds/videos.xml?channel_id=UCruM8e10ljDk6VEe1XrUxQA', // I like to make stuff
   
   // -----------------------------------------
   // Misc
